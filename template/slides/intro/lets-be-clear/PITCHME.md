@@ -14,7 +14,7 @@
 
 - I really like v8
 - I appreciate the help I've had from HQ members and the community
-- But this is about pain points I've experience
+- But this is about pain points I've experienced
   - And how to solve them
 
   @ulend
