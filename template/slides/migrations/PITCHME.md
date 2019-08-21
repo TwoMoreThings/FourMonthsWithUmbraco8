@@ -141,7 +141,7 @@ Migrations are used when you want to run setup code during startup
 
 @snap[midpoint span-100 text-center]
 
-@ul[](false)
+@ul[](true)
 
 - NTEXT and NCHAR columns are special cases
   - Not covered by plain NPoco

@@ -22,9 +22,9 @@
 
 ---?include=template/slides/dashboard/PITCHME.md
 
----?include=template/slides/examine/PITCHME.md
+---?include=template/slides/Examine/PITCHME.md
 
----?include=template/slides/logging/PITCHME.md
+---?include=template/slides/Logging/PITCHME.md
 
 ---?include=template/slides/migrations/PITCHME.md
 

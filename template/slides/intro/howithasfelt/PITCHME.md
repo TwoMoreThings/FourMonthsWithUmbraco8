@@ -1,4 +1,4 @@
----?image=template/img/lack-of-documentation-thread.png&position=right&size=auto 100%
+---?image=template/img/Lack-of-Documentation-Thread.png&position=right&size=auto 100%
 
 @title[What has it been like?]
 

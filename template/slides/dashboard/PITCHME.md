@@ -8,7 +8,7 @@
 
 @snapend
 
----?image=template/img/default-content-dashboard.png&position=right&size=40%
+---?image=template/img/default-content-dashboard.PNG&position=right&size=40%
 
 @title[Removing dashboards]
 
